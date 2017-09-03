@@ -1,9 +1,5 @@
-# Fighter
-
-the Fighter Game
-
-By Payen S.Tsung
-
+# flyPlane
+Autor:lyq
 ## 应用
 
  - 面向对象
